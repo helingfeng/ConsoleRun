@@ -1,0 +1,12 @@
+{
+    "name": "helingfeng/console-run",
+    "authors": [
+        {
+            "name": "helingfeng",
+            "email": "857190327@qq.com"
+        }
+    ],
+    "require": {
+        "symfony/process": "^5.2"
+    }
+}

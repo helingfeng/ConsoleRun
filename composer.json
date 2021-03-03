@@ -9,6 +9,8 @@
     "require": {
         "symfony/process": "^5.2",
         "nmred/kafka-php": "v0.2.0.8",
-        "monolog/monolog": "^2.2"
+        "monolog/monolog": "^2.2",
+        "mohuishou/image-ocr": "^0.1.2",
+        "catfan/medoo": "^1.7"
     }
 }
